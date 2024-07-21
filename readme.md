@@ -3,11 +3,11 @@ LogAnalyzer
 LogAnalyzer is a Python 3 tool designed to analyze web server log files. It extracts valuable insights such as the most requested pages, the IP addresses with the highest number of requests, and the total number of 404 errors.
 Features
 
-    Parses web server log files to extract key information.
-    Counts requests per IP address.
-    Identifies the most requested pages.
-    Counts the total number of 404 errors.
-    Generates a summary report.
+Parses web server log files to extract key information.
+Counts requests per IP address.
+Identifies the most requested pages.
+Counts the total number of 404 errors.
+Generates a summary report.
 
 Requirements
 
